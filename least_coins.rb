@@ -1,7 +1,4 @@
-#write out your code here
-
-def least_coins(cents)
-
-#Code your answer here!
-
-end
+puts "Enter your name!"
+  name = gets.chomp 
+  name = name.upcase
+puts "Hi #{name}!!!"
